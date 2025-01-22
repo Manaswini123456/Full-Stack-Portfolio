@@ -9,7 +9,7 @@ import './Header.scss';
 const Header = () => {
   const openResume = () => {
     // Open a new tab with the URL of your resume
-    const resumeUrl = 'https://drive.google.com/file/d/1D4w0MPZpqSbHdWsQRS4VqmpQ6OIGoth4/view?usp=sharing';
+    const resumeUrl = 'https://drive.google.com/file/d/1canBTS7p1YYozd-NYX3JadSIqKJpA8YJ/view?usp=sharing';
     window.open(resumeUrl, '_blank');
   };
 
